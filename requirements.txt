@@ -1,0 +1,13 @@
+time
+pyttsx3
+pyaudio    
+tkinter
+pyautogui
+math
+speech_recognition
+datetime   
+webbrowser
+PIL 
+subprocess 
+time
+pyjokes
